@@ -1,0 +1,2 @@
+# projekts
+random quote generator
